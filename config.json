@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "username": "nombredeusuario",
+        "repositoryName": "nombredeusuario.github.io",
+        "branch": "master"
+    },
+    "theme": {
+        "name": "Casper"
+    }
+}
